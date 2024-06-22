@@ -53,6 +53,6 @@
 [![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ryadinsky@gmail.com)
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-ryad&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-ryad&layout=compact&theme=dark)
 
 Спасибо за внимание к моему портфолио! Я всегда открыт для новых возможностей и сотрудничества
