@@ -30,7 +30,7 @@
 
 ## 🚀 Проекты
 
-### 🖼️ [Проект 1: Лэндинг-пейдж](https://github.com/vlad-ryad/project1)
+### 🖼️ [Проект 1: Лэндинг-пейдж](https://github.com/vlad-ryad/-course_work)
 
 **Описание**: Это современный и адаптивный лэндинг-пейдж, разработанный с использованием HTML, CSS и JavaScript.
 
@@ -39,10 +39,6 @@
 - CSS3
 - JavaScript (ES6)
 
-**Скриншоты**:
-
-![Скриншот 1](projects/project1/screenshot1.png)
-![Скриншот 2](projects/project1/screenshot2.png)
 
 ---
 
@@ -54,6 +50,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qqqwerty9)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/youngvlados)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/vlad-ryad)
-[![Email](https://img.shields.io/badge/Email-%2312100E?style=flat&logo=gmail&logoColor=white)](mailto:work.ryadinsky@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ryadinsky@gmail.com)
 
 Спасибо за внимание к моему портфолио! Я всегда открыт для новых возможностей и сотрудничества
