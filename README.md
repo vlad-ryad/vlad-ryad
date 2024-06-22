@@ -6,7 +6,7 @@
 
 Привет! Меня зовут Владислав, я начинающий Front-end разработчик с большим энтузиазмом и стремлением к созданию красивых и функциональных веб-приложений. Моя цель - создавать инновационные решения, которые обеспечивают наилучший пользовательский опыт.
 
-### Мой стек технологий
+### 🛠️ Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
@@ -43,7 +43,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/vlad-ryad)
 [![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ryadinsky@gmail.com)
 
-## Статистика на GitHub
+## 📊 Статистика на GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-ryad&layout=compact&theme=dark)
 
 Спасибо за внимание к моему портфолио! Я всегда открыт для новых возможностей и сотрудничества
