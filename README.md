@@ -35,7 +35,7 @@
 
 ---
 
-### 🖼️ [Проект 2: landing page "Positivus"](https://github.com/vlad-ryad/positivus-frontend)
+### 🖼️ [Проект 2: Landing page "Positivus"](https://github.com/vlad-ryad/positivus-frontend)
 
 **Описание**: Веб-сайт проекта Positivus с современным дизайном и адаптивной версткой.
 
