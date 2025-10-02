@@ -30,7 +30,7 @@
 **Технологии**:
 - HTML5
 - CSS3
-- Bootstrap 5  
+- Bootstrap 4  
 - JavaScript (ES6)
 
 ---
